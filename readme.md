@@ -14,3 +14,5 @@ https://www.cnblogs.com/du-hong/p/9921214.html
 
 4、项目启动 npm run dev
     localhost:3000
+
+5、npm i cross-env -D   
