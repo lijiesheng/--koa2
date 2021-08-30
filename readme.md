@@ -7,8 +7,9 @@
 https://www.cnblogs.com/du-hong/p/9921214.html
 
     可能碰到的问题 ：
-        1、
-        2、
+        1、Unable to access 'https://github.com/**/**/': OpenSSL        SSL_read: Connection was aborted, errno 10053 , 在 cmd 中 
+            git config --global http.sslVerify false
+        2、 
         3、
 
 4、项目启动 npm run dev
